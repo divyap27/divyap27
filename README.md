@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/yourusername/yourrepo/blob/main/cartoon.png" width="200" alt="Divya's cartoon image"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="150"/>
+</p>
 
 <h1 align="center">Hi there 👋 I'm Divya</h1>
 <h3 align="center">A passionate Full Stack Developer from Maharashtra, India 🇮🇳</h3>
