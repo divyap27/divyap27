@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Female Developer at Work">
+  <img src="https://media.giphy.com/media/hp3dmEypS0FaU/giphy.gif" width="250" alt="Female Developer">
 </p>
 
 
