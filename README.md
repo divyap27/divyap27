@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEypS0FaU/giphy.gif" width="250" alt="Female Developer">
-</p>
+
 
 
 <h1 align="center">Hi there 👋 I'm Divya</h1>
