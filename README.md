@@ -67,7 +67,7 @@ I'm always open to connecting and collaborating on exciting projects!
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Divya's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divyap27&show_icons=true&theme=tokyonight" alt="Divya's GitHub stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyap27&theme=tokyonight" alt="GitHub Streak"/>
 </p>
