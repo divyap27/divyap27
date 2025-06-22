@@ -50,6 +50,17 @@
 - 🛠️ Building real-world projects using Java Full Stack  
 
 ---
+| Certificate          | Issued By  | View                                                                                                   | Preview                                                                                     |
+| -------------------- | ---------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| **Java**             | Codecademy | [View Certificate](https://drive.google.com/file/d/1jKtMt6CyfmzWpvev2TNYbxfW4KD3iT0q/view?usp=sharing) | ![Java](https://drive.google.com/uc?export=view\&id=1jKtMt6CyfmzWpvev2TNYbxfW4KD3iT0q)      |
+| **Java JUnit**       | Codecademy | [View Certificate](https://drive.google.com/file/d/1iCLhZNun8r_CgLVuPqAT59n6zE3iNQm2/view?usp=sharing) | ![JUnit](https://drive.google.com/uc?export=view\&id=1iCLhZNun8r_CgLVuPqAT59n6zE3iNQm2)     |
+| **Spring Framework** | Codecademy | [View Certificate](https://drive.google.com/file/d/1VR4myBFoVTyRFBDSGr32BTEHd8GTh_De/view?usp=sharing) | ![Spring](https://drive.google.com/uc?export=view\&id=1VR4myBFoVTyRFBDSGr32BTEHd8GTh_De)    |
+| **SQL**              | Codecademy | [View Certificate](https://drive.google.com/file/d/1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7/view?usp=sharing) | ![SQL](https://drive.google.com/uc?export=view\&id=1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7)       |
+| **HTML**             | Codecademy | [View Certificate](https://drive.google.com/file/d/1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7/view?usp=sharing) | ![HTML](https://drive.google.com/uc?export=view\&id=1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7)      |
+| **Bootstrap**        | Codecademy | [View Certificate](https://drive.google.com/file/d/1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7/view?usp=sharing) | ![Bootstrap](https://drive.google.com/uc?export=view\&id=1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7) |
+| **JavaScript**       | Codecademy | *Pending Upload or Link*                                                                               | ❌                                                                                           |
+
+
 
 ## 📫 Contact Me / Connect with Me  
 I'm always open to connecting and collaborating on exciting projects!  
