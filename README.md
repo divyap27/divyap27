@@ -43,13 +43,7 @@
 
 ---
 
-## 🌱 Currently Learning
-- 🌿 Git Branching & GitHub Collaboration  
-- 🚀 Spring Boot  
-- 📱 Responsive Web Design & Advanced CSS (Flexbox & Grid)  
-- 🛠️ Building real-world projects using Java Full Stack  
-
----
+## 🏅 Certifications
 | Certificate          | Issued By  | View                                                                                                   | Preview                                                                                     |
 | -------------------- | ---------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 | **Java**             | Codecademy | [View Certificate](https://drive.google.com/file/d/1jKtMt6CyfmzWpvev2TNYbxfW4KD3iT0q/view?usp=sharing) | ![Java](https://drive.google.com/uc?export=view\&id=1jKtMt6CyfmzWpvev2TNYbxfW4KD3iT0q)      |
@@ -59,8 +53,45 @@
 | **HTML**             | Codecademy | [View Certificate](https://drive.google.com/file/d/1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7/view?usp=sharing) | ![HTML](https://drive.google.com/uc?export=view\&id=1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7)      |
 | **Bootstrap**        | Codecademy | [View Certificate](https://drive.google.com/file/d/1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7/view?usp=sharing) | ![Bootstrap](https://drive.google.com/uc?export=view\&id=1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7) |
 | **JavaScript**       | Codecademy | *Pending Upload or Link*                                                                               | ❌                                                                                           |
+---
+## 💻 Projects
+## 🎒 Excursion – Landing Page
+A responsive landing page for a fictional app that helps users record and share travel experiences. <br>
+## 📌 Tech Stack: HTML5, CSS3 <br>
+ 🌐 **Live Demo:** [Excursion Project](https://divyap27.github.io/Excursion/)
 
+## 🔹 Features:
+Full-page layout with embedded videos and images
+Clean, responsive design
+Structured with semantic HTML5 and modular CSS
+Version controlled using Git
 
+## 🎓 Colmar Academy – Educational Website
+A modern, responsive landing page for an educational institution showcasing courses, news, thesis exhibits, and more. <br>
+## 📌 Tech Stack: HTML5, CSS3, Google Fonts  <br>
+🌐 **Live Demo:** [Colmar Academy](https://divyap27.github.io/Colmar-Academy/)
+
+## 🔹 Features:
+Responsive navigation (desktop + mobile)
+Hero banner with CTA
+Course and news sections
+Multimedia thesis exhibit
+Semantic HTML5 for accessibility
+Layout using CSS Grid and Flexbox
+
+## 🎮 Number Guessing Game
+An interactive game where players guess a number between 1 and 100 within 10 attempts. <br>
+## 📌 Tech Stack: HTML5, CSS3 (with animations), JavaScript <br>
+🌐 **Live Demo:** [Play the Game](https://divyap27.github.io/Number-Guessing-Game/)
+
+## 🔹 Features:
+Real-time feedback (Too high / Too low / Correct!)
+Attempt counter with game-over logic
+Reset functionality to play again
+Responsive and modern UI
+DOM manipulation with vanilla JavaScript
+
+---
 
 ## 📫 Contact Me / Connect with Me  
 I'm always open to connecting and collaborating on exciting projects!  
