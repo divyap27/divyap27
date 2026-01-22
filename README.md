@@ -52,7 +52,7 @@
 | **SQL**              | Codecademy | [View Certificate](https://drive.google.com/file/d/1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7/view?usp=sharing) | ![SQL](https://drive.google.com/uc?export=view\&id=1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7)       |
 | **HTML**             | Codecademy | [View Certificate](https://drive.google.com/file/d/1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7/view?usp=sharing) | ![HTML](https://drive.google.com/uc?export=view\&id=1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7)      |
 | **Bootstrap**        | Codecademy | [View Certificate](https://drive.google.com/file/d/1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7/view?usp=sharing) | ![Bootstrap](https://drive.google.com/uc?export=view\&id=1S4aAZ2Su6BxNOEtORVmkKSJIu3d0EzI7) |
-| **JavaScript**       | Codecademy | *Pending Upload or Link*                                                                               | ❌                                                                                           |
+| **JavaScript**       | Codecademy | [View Certificate](https://drive.google.com/file/d/1d6U6EnYODzQnl-wJH58PeLUuiD67jjs1/view?usp=sharing) | ![Javascript](https://drive.google.com/file/d/1gfS--n7F5iRQn39uPeMFKTg30jf9SLMI/view?usp=sharing)  |                                                                      
 ---
 ## 💻 Projects
 ## 🎒 Excursion – Landing Page
